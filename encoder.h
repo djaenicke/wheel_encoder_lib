@@ -1,5 +1,5 @@
-#ifndef SENSORS_ENCODER_H_
-#define SENSORS_ENCODER_H_
+#ifndef ENCODER_H_
+#define ENCODER_H_
 
 #include "mbed.h"
 
@@ -35,4 +35,4 @@ class Encoder {
 
 }   // namespace encoder
 
-#endif  // SENSORS_ENCODER_H_
+#endif  // ENCODER_H_
